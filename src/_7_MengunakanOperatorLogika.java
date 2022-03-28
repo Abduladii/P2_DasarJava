@@ -12,6 +12,5 @@ public class _7_MengunakanOperatorLogika {
         System.out.println("y!=z="+(y!=z));
 
 
-
     }
 }
