@@ -9,5 +9,4 @@ public class _1_MengamatiHasilPerubahanNilaiDariSuatuOperasiMatematis {
         System.out.println("\nResult\tRemainder");
         System.out.println(result + "\t" + remainder);
     }
-
 }
